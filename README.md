@@ -2,6 +2,8 @@
 Here's a README file for the Simon Game based on the provided HTML code:
 
 ---
+# important note:
+   when you clone the repository on your personal devices then create a seperate folder for name as "sounds" to store all the sounds in it for working as the path is already predefined in the JS file.
 
 # Simon Game
 
